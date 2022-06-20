@@ -40,3 +40,81 @@ nav>* {
 nav>i {
     font-size: 30px;
 }
+
+/* 
+        -----     Main Container     -----*/
+
+
+.container {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    /* justify-content: center; */
+    width: 80%;
+    /* height: 100vh; */
+    margin: 1em auto 0;
+}
+
+/* 
+        -----     Card     -----*/
+
+.card {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-top: 5px;
+    height: 168px;
+    margin: 2em 0;
+}
+
+.card-image {
+    margin-right: 1em;
+    height: 100%;
+
+}
+
+.card-image img {
+    width: 125px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+
+.card-text {
+    max-width: 400px;
+}
+
+.body-text {
+    font-size: 11px;
+    line-height: 12px;
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+
+.dis-inline {
+    display: inline;
+}
+
+.card a {
+    color: var(--clr-grey);
+    margin-left: 2em;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.country-name {
+    text-transform: uppercase;
+    letter-spacing: 0.17em;
+
+}
+
+.destination-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 14px;
+}
