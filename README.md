@@ -17,4 +17,4 @@ Scrimba Solo Project as part of the Learn React Course.  The objective was to pr
 ## My experience:
 Great simple project to focus just on props and using .map()
 
-![finished project](./src/my-travel-journal-screenshot.png)
+![finished project](./src/my-travel-journal-screenshot2.png)
