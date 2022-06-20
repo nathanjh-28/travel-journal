@@ -67,6 +67,10 @@ nav>i {
     margin: 2em 0;
 }
 
+.card i {
+    margin-right: 5px;
+}
+
 .card-image {
     margin-right: 1em;
     height: 100%;
